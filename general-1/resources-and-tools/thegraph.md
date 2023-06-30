@@ -19,4 +19,4 @@ Subgraphs that builded and maintained by the Yes Coin team, deployed on Yes Coin
 
 ### Yes Coin Consensus
 
-on Yes Coin graph-node: [https://thegraph.yesscan.io/subgraphs/name/dnychain/fuse-consensus](https://thegraph.yesscan.io/subgraphs/name/dnychain/fuse-consensus)
+on Yes Coin graph-node: [https://thegraph.yesscan.io/subgraphs/name/yeschain/fuse-consensus](https://thegraph.yesscan.io/subgraphs/name/yeschain/fuse-consensus)

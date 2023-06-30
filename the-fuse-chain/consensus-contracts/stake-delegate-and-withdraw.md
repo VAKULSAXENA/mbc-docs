@@ -14,8 +14,8 @@ The basic requirement to become a Yes Coin chain validator is to have a stake am
 
 There are two options to stake \(both should be called from the address which would be the validator\)
 
-1. Send Yes Coin tokens to the [consensus contract](https://yesscan.io/address/0x07C53925485179505e1189021c8f794A2A16da54) - 0x07C53925485179505e1189021c8f794A2A16da54 on the dynasty network.
-2. Call the \`stake\` function on the [consensus contract](https://yesscan.io/address/0x07C53925485179505e1189021c8f794A2A16da54) - 0x07C53925485179505e1189021c8f794A2A16da54 on the dynasty network
+1. Send Yes Coin tokens to the [consensus contract](https://yesscan.io/address/0x07C53925485179505e1189021c8f794A2A16da54) - 0x07C53925485179505e1189021c8f794A2A16da54 on the yes network.
+2. Call the \`stake\` function on the [consensus contract](https://yesscan.io/address/0x07C53925485179505e1189021c8f794A2A16da54) - 0x07C53925485179505e1189021c8f794A2A16da54 on the yes network
 
  
 

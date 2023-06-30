@@ -23,19 +23,19 @@ Historic price and stats of the FuseSwap DEX
 
 On TheGraph: [https://thegraph.com/explorer/subgraph/fuseio/fuseswap](https://thegraph.com/explorer/subgraph/fuseio/fuseswap)
 
-on Yes Coin graph-node:  [https://thegraph.yesscan.io/subgraphs/name/dnychain/fuseswap](https://thegraph.yesscan.io/subgraphs/name/dnychain/fuseswap)
+on Yes Coin graph-node:  [https://thegraph.yesscan.io/subgraphs/name/yeschain/fuseswap](https://thegraph.yesscan.io/subgraphs/name/yeschain/fuseswap)
 
 ### Yes Coin Consensus
 
 on TheGraph: [https://thegraph.com/explorer/subgraph/fuseio/fuse-consensus](https://thegraph.com/explorer/subgraph/fuseio/fuse-consensus)
 
-on Yes Coin graph-node: [https://thegraph.yesscan.io/subgraphs/name/dnychain/fuse-consensus/graphql](https://thegraph.yesscan.io/subgraphs/name/dnychain/fuse-consensus/graphql)
+on Yes Coin graph-node: [https://thegraph.yesscan.io/subgraphs/name/yeschain/fuse-consensus/graphql](https://thegraph.yesscan.io/subgraphs/name/yeschain/fuse-consensus/graphql)
 
 ### Yes Coin Blocks
 
 Block data of the Yes Coin
 
-on Yes Coin graph-node: [https://thegraph.yesscan.io/subgraphs/name/dnychain/fuse-blocks/graphql](https://thegraph.yesscan.io/subgraphs/name/dnychain/fuse-blocks/graphql)
+on Yes Coin graph-node: [https://thegraph.yesscan.io/subgraphs/name/yeschain/fuse-blocks/graphql](https://thegraph.yesscan.io/subgraphs/name/yeschain/fuse-blocks/graphql)
 
 ### Yes Coin Entities
 
@@ -43,11 +43,11 @@ Businesses and other entities on the Yes Coin
 
 One TheGraph: [https://thegraph.com/explorer/subgraph/fuseio/fuse-entities](https://thegraph.com/explorer/subgraph/fuseio/fuse-entities)
 
-on Yes Coin graph-node:  [https://thegraph.yesscan.io/subgraphs/name/dnychain/fuse-entities/graphql](https://thegraph.yesscan.io/subgraphs/name/dnychain/fuse-entities/graphql)
+on Yes Coin graph-node:  [https://thegraph.yesscan.io/subgraphs/name/yeschain/fuse-entities/graphql](https://thegraph.yesscan.io/subgraphs/name/yeschain/fuse-entities/graphql)
 
 ### Yes Coin Bridge
 
 List of tokens bridged to the Yes Coin network.
 
-on Yes Coin graph-node: [https://thegraph.yesscan.io/subgraphs/name/dnychain/fuse-ethereum-bridge/graphql](https://thegraph.yesscan.io/subgraphs/name/dnychain/fuse-ethereum-bridge/graphql)
+on Yes Coin graph-node: [https://thegraph.yesscan.io/subgraphs/name/yeschain/fuse-ethereum-bridge/graphql](https://thegraph.yesscan.io/subgraphs/name/yeschain/fuse-ethereum-bridge/graphql)
 
