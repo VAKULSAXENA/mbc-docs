@@ -1,48 +1,48 @@
 ---
 description: >-
-  We will walk you through how to transfer YES from Ethereum to Fusenet using
-  the bridge integrated with Fuseswap.
+  We will walk you through how to transfer MediaBlock from Ethereum to MediaBlocknet using
+  the bridge integrated with MediaBlockswap.
 ---
 
-# Transfer YES or YES20 using Bridge on Fuseswap
+# Transfer MediaBlock or MediaBlock20 using Bridge on MediaBlockswap
 
-**Transferring YES from ETH mainnet to Fusenet.**
+**Transferring MediaBlock from ETH mainnet to MediaBlocknet.**
 
 **Step 1:**
 
-Navigate to [www.fuseswap.com](https://fuseswap.com/) . The interface will look like as shown below
+Navigate to [www.MediaBlockswap.com](https://MediaBlockswap.com/) . The interface will look like as shown below
 
 ![](../../.gitbook/assets/0%20%286%29.png)
 
-Use the **“Connect to a wallet”** on the right hand top corner to connect your wallet to Fuseswap. Once you connect you should be able to see your wallet address and see the network you are connected to. \(In this case Ethereum\)
+Use the **“Connect to a wallet”** on the right hand top corner to connect your wallet to MediaBlockswap. Once you connect you should be able to see your wallet address and see the network you are connected to. \(In this case Ethereum\)
 
 ![](../../.gitbook/assets/1%20%289%29.png)
 
 **Step 2:**
 
-Click on **“Bridge”**, Select **“YES”** from dropdown and enter the amount of YES you want to transfer from ETH mainnet to Fusenet. Click on **“Approve YES”** and approve the transaction on Metamask.
+Click on **“Bridge”**, Select **“MediaBlock”** from dropdown and enter the amount of MediaBlock you want to transfer from ETH mainnet to MediaBlocknet. Click on **“Approve MediaBlock”** and approve the transaction on Metamask.
 
 ![](../../.gitbook/assets/2%20%289%29.png)
 
-Once the transaction is confirmed on chain, the **“Transfer”** can be clicked and transaction has to be approved. Once this second transaction is confirmed onchain the YES balance in the same address on Yes Coin network will have the updated balance of YES which can be checked through [www.yesscan.io](http://www.yesscan.io/). 
+Once the transaction is confirmed on chain, the **“Transfer”** can be clicked and transaction has to be approved. Once this second transaction is confirmed onchain the MediaBlock balance in the same address on MediaBlock Coin network will have the updated balance of MediaBlock which can be checked through [www.MediaBlockscan.io](http://www.MediaBlockscan.io/). 
 
 ![](../../.gitbook/assets/3%20%288%29.png)
 
-**Transferring YES from Fusenet to ETH mainnet.**
+**Transferring MediaBlock from MediaBlocknet to ETH mainnet.**
 
-Make sure that your wallet is running on Yes Coin RPC.
+Make sure that your wallet is running on MediaBlock Coin RPC.
 
-**Step 1:** Navigate to www.fuseswap.com . The interface will look like as shown below
+**Step 1:** Navigate to www.MediaBlockswap.com . The interface will look like as shown below
 
 ![](../../.gitbook/assets/4%20%289%29.png)
 
-Use the **“Connect to a wallet”** on the right hand top corner to connect your wallet with Fuseswap. Once you connect you should be able to see your wallet address and see the network you are connected to \(In this case Yes Coin network\).
+Use the **“Connect to a wallet”** on the right hand top corner to connect your wallet with MediaBlockswap. Once you connect you should be able to see your wallet address and see the network you are connected to \(In this case MediaBlock Coin network\).
 
 ![](../../.gitbook/assets/5%20%286%29.png)
 
 **Step 2:**
 
-Click on **“Bridge”**, Select **"YES"** from the dropdown and enter the amount of YES you want to transfer from Fusenet to ETH mainnet. Click on **“Transfer”** and approve the transaction on Metamask.
+Click on **“Bridge”**, Select **"MediaBlock"** from the dropdown and enter the amount of MediaBlock you want to transfer from MediaBlocknet to ETH mainnet. Click on **“Transfer”** and approve the transaction on Metamask.
 
 ![](../../.gitbook/assets/6%20%287%29.png)
 

@@ -1,29 +1,29 @@
 ---
-description: Becoming a Yes Coin validator in a few simple steps
+description: Becoming a MediaBlock Coin validator in a few simple steps
 ---
 
 # Getting started as a validator
 
 ## Pre-requirements
 
-In order to be a Yes Coin validator, you first must see that you meet the pre-requirements:
+In order to be a MediaBlock Coin validator, you first must see that you meet the pre-requirements:
 
-* You know what it means to be a Yes Coin validator - [Becoming a validator](how-to-become-a-validator.md#what-it-means-to-be-a-validator).
-* You have at least 100K YES tokens or you will have an aggregated delegation of at least 100K YES tokens \(you can purchase YES token on [Uniswap](https://uniswap.exchange/swap/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d)\).
+* You know what it means to be a MediaBlock Coin validator - [Becoming a validator](how-to-become-a-validator.md#what-it-means-to-be-a-validator).
+* You have at least 100K MediaBlock tokens or you will have an aggregated delegation of at least 100K MediaBlock tokens \(you can purchase MediaBlock token on [Uniswap](https://uniswap.exchange/swap/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d)\).
 * You have an always-on hardware that meets the pre-requisites - [Running a validator node](run-your-own-validator.md#pre-requisites)
 
-## How to become a Yes Coin validator
+## How to become a MediaBlock Coin validator
 
 To quickly become a validator, follow this steps:
 
 ### Step 1: Download the \`quickstart.sh\` script and an \`.env\` example file:
 
 ```text
-mkdir fuse-validator
-cd fuse-validator
-wget -O quickstart.sh https://raw.githubusercontent.com/Yes Coin/master/scripts/quickstart.sh
+mkdir MediaBlock-validator
+cd MediaBlock-validator
+wget -O quickstart.sh https://raw.githubusercontent.com/MediaBlock Coin/master/scripts/quickstart.sh
 chmod 777 quickstart.sh
-wget -O .env https://raw.githubusercontent.com/Yes Coin/master/scripts/examples/.env.validator.example
+wget -O .env https://raw.githubusercontent.com/MediaBlock Coin/master/scripts/examples/.env.validator.example
 ```
 
 ### Step 2: Update the \`.env\` file:
@@ -42,32 +42,32 @@ set `<YOUR_API_KEY>` to your infura api key on `FOREIGN_RPC_URL`
 ```
 
 {% hint style="success" %}
-After running the script successfully, you will see your address in the [health](https://status.yesscan.io/) site.
+After running the script successfully, you will see your address in the [health](https://status.MediaBlockscan.io/) site.
 {% endhint %}
 
 ### Step 5: Stake and/or delegate!
 
 #### Stake
 
-To stake YES tokens, all you should do is send your YES tokens to the Yes Coin Consensus contract address over the Yes Coin network from the validator address.
+To stake MediaBlock tokens, all you should do is send your MediaBlock tokens to the MediaBlock Coin Consensus contract address over the MediaBlock Coin network from the validator address.
 
 {% hint style="success" %}
-The Yes Coin Consensus contract address: `0x07C53925485179505e1189021c8f794A2A16da54`
+The MediaBlock Coin Consensus contract address: `0x07C53925485179505e1189021c8f794A2A16da54`
 {% endhint %}
 
-The easiest way to do so, is to import your private key or key-store file to your favourite wallet \(for example Metamask\), switch network to Yes Coin and send the YES tokens \(native tokens\) to the Consensus contract address.
+The easiest way to do so, is to import your private key or key-store file to your favourite wallet \(for example Metamask\), switch network to MediaBlock Coin and send the MediaBlock tokens \(native tokens\) to the Consensus contract address.
 
 {% hint style="info" %}
 You can find your key-store \(containing your private key\) and the password for the created account in:
 
-`$HOME/fusenet/config/keys/FuseNetwork/UTC--xxxx`
+`$HOME/MediaBlocknet/config/keys/MediaBlockNetwork/UTC--xxxx`
 
-`$HOME/fusenet/config/pass.pwd`
+`$HOME/MediaBlocknet/config/pass.pwd`
 {% endhint %}
 
 #### Delegate
 
-To delegate, just send the YES tokens from any address to the Consensus contract address with the data: `0x5c19a95c000000000000000000000000<address without 0x>`.
+To delegate, just send the MediaBlock tokens from any address to the Consensus contract address with the data: `0x5c19a95c000000000000000000000000<address without 0x>`.
 
 {% hint style="success" %}
 Example:
@@ -85,7 +85,7 @@ Use: `0x5c19a95c000000000000000000000000b8ce4a040e8aa33bbe2de62e92851b7d7afd52de
 Wait until the next cycle is started.
 
 {% hint style="success" %}
-You can see that you are validating both in the [health](https://status.yesscan.io/) site and on the [explorer](https://yesscan.io) site.
+You can see that you are validating both in the [health](https://status.MediaBlockscan.io/) site and on the [explorer](https://MediaBlockscan.io) site.
 {% endhint %}
 
 For live support, contact us on [Telegram](https://t.me/) or [Discord](https://discord.gg/). Good luck and happy validating!

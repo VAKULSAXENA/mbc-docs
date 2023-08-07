@@ -2,9 +2,9 @@
 
 ### DApp Management & Development Tools
 
-[The Graph](https://thegraph.com) supports Yes Coin data indexing, quierying and display.
+[The Graph](https://thegraph.com) supports MediaBlock Coin data indexing, quierying and display.
 
-[Remix IDE](https://remix-project.org/): It's easy to deploy on Yes Coin with Remix, simply choose injected web3 and add the Yes Coin custom RPC to your Metamask.
+[Remix IDE](https://remix-project.org/): It's easy to deploy on MediaBlock Coin with Remix, simply choose injected web3 and add the MediaBlock Coin custom RPC to your Metamask.
 
 [JustSmartContracts](https://justsmartcontracts.dev/): another smart contract deployment tool for EVM chains.&#x20;
 

@@ -4,21 +4,21 @@
 
 **Discord**: [https://discord.com/invite/](https://discord.com/invite/)&#x20;
 
-**Yes Coin Forum**: [https://forum.yesscan.io/](https://forum.yesscan.io/)
+**MediaBlock Coin Forum**: [https://forum.MediaBlockscan.io/](https://forum.MediaBlockscan.io/)
 
 ### Public Telegram groups
 
 **Main chat**: [https://t.me/](https://t.me/)
 
-<!-- **Yes Coin announcements group**: [https://t.me/FuseAnnouncements](https://t.me/FuseAnnouncements) -->
+<!-- **MediaBlock Coin announcements group**: [https://t.me/MediaBlockAnnouncements](https://t.me/MediaBlockAnnouncements) -->
 
-<!-- **Yes Coin Cash group**: [https://t.me/fusecash](https://t.me/fusecash) -->
+<!-- **MediaBlock Coin Cash group**: [https://t.me/MediaBlockcash](https://t.me/MediaBlockcash) -->
 
-<!-- **medifaktSwap group**: [https://t.me/fuseswap](https://t.me/fuseswap) -->
+<!-- **medifaktSwap group**: [https://t.me/MediaBlockswap](https://t.me/MediaBlockswap) -->
 
-<!-- **Yes Coin NFTs**: [https://t.me/fuseNFTs](https://t.me/fuseNFTs)&#x20; -->
+<!-- **MediaBlock Coin NFTs**: [https://t.me/MediaBlockNFTs](https://t.me/MediaBlockNFTs)&#x20; -->
 
-**Italian Yes Coin Telegram community:** [https://t.me/](https://t.me/)
+**Italian MediaBlock Coin Telegram community:** [https://t.me/](https://t.me/)
 
-**Indonesian Yes Coin Telegram community:** [https://t.me/](https://t.me/)
+**Indonesian MediaBlock Coin Telegram community:** [https://t.me/](https://t.me/)
 

@@ -1,2 +1,2 @@
-# Things you can do on Yes Coin
+# Things you can do on MediaBlock Coin
 

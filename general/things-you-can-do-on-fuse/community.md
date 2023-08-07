@@ -4,13 +4,13 @@
 
 **Discord**: [https://discord.com/invite/jpPMeSZ](https://discord.com/invite/)&#x20;
 
-**Yes Coin Forum**: [https://forum.yesscan.io/](https://forum.yesscan.io/)
+**MediaBlock Coin Forum**: [https://forum.MediaBlockscan.io/](https://forum.MediaBlockscan.io/)
 
 ### Public Telegram groups
 
 **Main chat**: [https://t.me/](https://t.me/)
 
-**Italian Yes Coin Telegram community:** [https://t.me/](https://t.me/)
+**Italian MediaBlock Coin Telegram community:** [https://t.me/](https://t.me/)
 
-**Indonesian Yes Coin Telegram community:** [https://t.me/](https://t.me/)
+**Indonesian MediaBlock Coin Telegram community:** [https://t.me/](https://t.me/)
 

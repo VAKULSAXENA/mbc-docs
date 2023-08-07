@@ -1,9 +1,9 @@
-# Open your community on Yes Coin wallet
+# Open your community on MediaBlock Coin wallet
 
-1. Download the Yes Coin wallet from the following links:
+1. Download the MediaBlock Coin wallet from the following links:
 
-* For iOS users: [https://apps.apple.com/il/app/fuse-wallet/id1491783654](https://apps.apple.com/il/app/fuse-wallet/id1491783654)
-* For Android users: [https://play.google.com/store/apps/details?id=io.fuse.fusecash](https://play.google.com/store/apps/details?id=io.fuse.fusecash)
+* For iOS users: [https://apps.apple.com/il/app/MediaBlock-wallet/id1491783654](https://apps.apple.com/il/app/MediaBlock-wallet/id1491783654)
+* For Android users: [https://play.google.com/store/apps/details?id=io.MediaBlock.MediaBlockcash](https://play.google.com/store/apps/details?id=io.MediaBlock.MediaBlockcash)
 
    2. After installing the app register and open the sidebar and click on "Switch community" and click "scan the QR code"
 
